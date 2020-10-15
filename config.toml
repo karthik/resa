@@ -1,5 +1,5 @@
 # default configuration
-baseURL = ""
+baseURL = "https://stoic-poitras-c101c0.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
